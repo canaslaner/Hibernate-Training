@@ -1,1 +1,1 @@
-# Hibernate-Training
+# hibernate-training
